@@ -1,7 +1,11 @@
 Aerosol Measurement and Dylos calibration
 ==============================
 
-Measures the concentration of calibration nanospheres with various sensors and calibrate Dylos Sensor
+Measures the concentration of calibration nanospheres with various sensors and
+calibrate Dylos Sensor.
+
+Tis project is a part of NERC Research Experience Placement at School of Earth
+and Environment, University of Leeds in 2016.
 
 Project Organization
 ------------
@@ -49,4 +53,3 @@ Project Organization
             ├── dylos-plots.py
             ├── grimm.py
             └── sensors.yaml
-
